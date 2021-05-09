@@ -1,2 +1,2 @@
-Yeah hi, focussing on Python.
+Yeah hey, focussing on Python.
 Although not much at the moment.
