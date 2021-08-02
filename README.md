@@ -1,2 +1,1 @@
-Yeah hey, focussing on Python.
-Although not much at the moment.
+How's it going
